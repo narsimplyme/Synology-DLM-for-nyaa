@@ -1,4 +1,4 @@
-# SynoDM-dlm-for-nyaa
+# Synology Download Station DLM file for Nyaa torrent
 시놀로지 다운로드 스테이션용 nyaa 토렌트 검색 모듈
 
 ## Sukebei Nyaa와 그냥 Nyaa로 제공됩니다.
