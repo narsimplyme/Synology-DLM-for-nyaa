@@ -1,0 +1,10 @@
+{
+"name": "nyaa",
+"displayname": "Nyaa.si",
+"description": "Nyaa P2P Search",
+"version": "1.0",
+"site": "https://nyaa.si",
+"module": "search.php",
+"type": "search",
+"class": "TorrentSearchNyaa"
+}

@@ -1,10 +1,10 @@
 {
-"name": "nyaa",
+"name": "sukebeinyaa",
 "displayname": "Sukebei Nyaa.si",
 "description": "Sukebei Nyaa P2P Search",
 "version": "1.0",
-"site": "http://sukebei.nyaa.si",
+"site": "https://sukebei.nyaa.si",
 "module": "search.php",
 "type": "search",
-"class": "TorrentSearchNyaa"
+"class": "TorrentSearchSukebeiNyaa"
 }
